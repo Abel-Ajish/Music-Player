@@ -23,7 +23,7 @@ No dependencies or server setup required. All functionality is client-side.
 2. Open `index.html` in any modern browser.
 
 ```bash
-git clone https://github.com/your-username/music-player.git
+git clone https://github.com/Abel-Ajish/music-player.git
 cd music-player
 start index.html  # Or just double-click it
 ```
